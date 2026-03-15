@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mokaddes Ali</h1>
-<h3 align="center">A passionate full stack wordpress developer from Rajshahi, Bangladesh</h3>
+<h1 align="left">Hi 👋, I'm Mokaddes Ali</h1>
+<h3 align="left">A passionate full stack wordpress developer from Rajshahi, Bangladesh</h3>
 
 - 🔭 I’m currently working on [Lessonlms online learning platform](https://lessonlms.mokaddesali.com/)
 
