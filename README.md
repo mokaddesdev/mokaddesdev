@@ -1,13 +1,5 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Mokaddes Ali</h1>
 <h3 align="center">A passionate full stack wordpress developer from Rajshahi, Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mokaddesdev&label=Profile%20views&color=0e75b6&style=flat" alt="mokaddesdev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mokaddesdev" alt="mokaddesdev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Lessonlms online learning platform](https://lessonlms.mokaddesali.com/)
 
@@ -15,13 +7,13 @@
 
 - 👨‍💻 All of my projects are available at [https://mokaddesali.com/](https://mokaddesali.com/)
 
-- 💬 Ask me about **Tailwind CSS, JavaScript, jQuery, PHP, WordPress,mySQL**
+- 💬 Ask me about **Tailwind CSS, JavaScript, jQuery, PHP, WordPress, MySQL**
 
 - 📫 How to reach me **contact@mokaddesali.com**
 
 - 📄 Know about my experiences [https://app.flowcv.com/resume/content](https://app.flowcv.com/resume/content)
 
-- ⚡ Fun fact **I think i am funny learning journey enjoy.**
+- ⚡ Fun fact **I think I am funny learning journey enjoy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
