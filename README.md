@@ -1,176 +1,150 @@
-<h1 align="center">Hi 👋, I'm Mokaddes Ali</h1>
+<h2>Hey! 👋 Happy to see you!</h2>
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&center=false&vCenter=true&width=900&lines=Hi!+👋,+I+am+Mokaddes+Ali;Full+Stack+WordPress+Developer;" />
+</p>
+<p> I'm Mokaddes Ali. I build custom WordPress themes and plugins, Elementor addons, WooCommerce & Shopify stores, SEO-optimized websites, and modern React-based solutions. Passionate about creating fast, scalable, and user-friendly websites. 
+</p>
+
+<h4 align="left">🛠 Skills & Tools</h4>
+
+<p dir="auto">
+  <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel" style="max-width: 100%;">
+  </a> -->
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://wordpress.org">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://elementor.com">
+    <img src="https://img.shields.io/badge/Elementor-666666?style=flat-square&amp;logo=elementor&amp;logoColor=white" alt="Elementor" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://php.net">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&amp;logo=php&amp;logoColor=white" alt="PHP" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://mysql.com">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://jquery.com">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&amp;logo=jquery&amp;logoColor=white" alt="jQuery" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://getbootstrap.com">
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://tailwindcss.com">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&amp;logo=tailwind-css&amp;logoColor=white" alt="Tailwind CSS" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://git-scm.com">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&amp;logo=adobe-photoshop&amp;logoColor=white" alt="Photoshop" style="max-width: 100%;">
+  </a>
+
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.figma.com">
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&amp;logo=figma&amp;logoColor=white" alt="Figma" style="max-width: 100%;">
+  </a>
+</p>
+
+<h4 align="left">💬 Ask me about</h4>
+<p align="left">
+WordPress, Theme Development, Plugin Development, Elementor Addon Development, WooCommerce, Shopify, PHP, JavaScript, jQuery, React.js, Tailwind CSS, MySQL
+</p>
+
+<h4 align="left">🌱 Currently Learning</h4>
+<p align="left">
+React.js for modern WordPress development, including Gutenberg block theme support.
+</p>
+
+<h4 align="left">👨‍💻 Portfolio & GitHub</h4>
+<p align="left">
+<a href="https://mokaddesali.com" target="_blank">Portfolio</a> | <a href="https://github.com/mokaddesdev" target="_blank"> All of my repositories are available on GitHub </a>
+</p>
+
+<h4 align="left">📫 Email</h4>
+<p align="left">
+contact@mokaddesali.com
+</p>
+
+<h4 align="left"> 🤝 Connect With Me</h4>
+<p dir="auto">
+
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/mokaddesdev" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="max-width: 100%;">
+  </a>
+    <a href="https://wa.me/8801402967304" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" style="max-width: 100%;">
+  </a>
+  
+  <a href="mailto:contact@mokaddesali.com" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" style="max-width: 100%;">
+  </a>
+
+  <a href="https://www.facebook.com/mokaddesdev/" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" style="max-width: 100%;">
+  </a>
+
+  <a href="https://x.com/mokaddesdev" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=flat-square&logo=x&logoColor=white" alt="X" style="max-width: 100%;">
+  </a>
+  
+</p>
+
+<p align="left">
+  <a href="https://github.com/mokaddesdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mokaddesdev&show_icons=true&hide=issues" alt="mokaddesdev GitHub Stats" />
+  </a>
+  <a href="https://github.com/mokaddesdev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokaddesdev&layout=compact" alt="mokaddesdev Top Languages" />
+  </a>
+</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+WordPress+Developer;Elementor+Addon+Developer;WooCommerce+Specialist;WordPress+Theme+%26+Plugin+Developer;Building+Modern+WordPress+Solutions" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mokaddesdev&theme=tokyonight"/>
 </p>
 
-<h3 align="center">Full Stack WordPress Developer from Rajshahi, Bangladesh 🇧🇩</h3>
+### ⭐ Featured Projects
 
-<p align="center">
-💻 WordPress Developer • 🚀 Elementor Addon Developer • 🛒 WooCommerce Specialist
-</p>
-
----
-
-# 🚀 About Me
-
-- 🔭 Currently working on **LessonLMS – Online Learning Platform**  
-  https://lessonlms.mokaddesali.com/
-
-- 🌱 Currently learning **React.js for modern WordPress development**
-
-- 👨‍💻 Portfolio  
-  https://mokaddesali.com/
-
-- 💬 Ask me about  
-  **WordPress, Theme Development, Plugin Development, Elementor Addon Development, WooCommerce, PHP, JavaScript, jQuery, React.js, Tailwind CSS, MySQL**
-
-- 📫 Email  
-  **contact@mokaddesali.com**
-
-- 📄 Resume  
-  https://app.flowcv.com/resume/content
-
----
-
-# 🤝 Connect With Me
-
-<p>
-
-<a href="https://linkedin.com/in/mokaddesdev">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
-</a>
-
-<a href="https://stackoverflow.com/users/mokaddesdev">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" height="35"/>
-</a>
-
-<a href="https://fb.com/mokaddesali">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="35"/>
-</a>
-
-<a href="https://instagram.com/mokaddesdev">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="35"/>
-</a>
-
-<a href="https://wa.me/8801402967304">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" height="35"/>
-</a>
-
-</p>
-
----
-
-# 🧠 Core Skills
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
-
-</p>
-
----
-
-# 🧩 WordPress Ecosystem
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Elementor_Logo.png" height="50"/>
-
-</p>
-
-✔ WordPress Theme Development  
-✔ WordPress Plugin Development  
-✔ Elementor Addon Development  
-✔ WooCommerce Customization  
-✔ Custom WordPress CMS Development  
-
----
-
-# 🧰 Languages & Tools
-
-<p>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-
-</p>
-
----
-
-# ⭐ Featured Projects
-
-### 🎓 LessonLMS – WordPress Learning Management System
+#### 🎓 LessonLMS – WordPress Learning Management System
 Custom WordPress LMS platform with course modules, lesson management, and student learning features.
 
 🔗 https://lessonlms.mokaddesali.com/
 
 ---
 
-### 🧩 Elementor Custom Addons
+#### 🧩 Elementor Custom Addons
 Custom Elementor widgets and extensions for advanced design and functionality.
 
 ---
 
-### 🛒 WooCommerce Customization
+---
+#### Hospital Appointment Booking System
+Custom gutenburg block theme
+
+#### 🛒 WooCommerce Customization
 Advanced WooCommerce store customization and functionality development.
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mokaddesdev&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mokaddesdev&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mokaddesdev&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/mokaddesdev/mokaddesdev/output/snake.svg" />
-
-</p>
-
----
-
-# 🚀 Current Focus
-
-✔ Building scalable **WordPress plugins**  
-✔ Developing **Elementor addons**  
-✔ Creating **custom LMS platforms**  
-✔ Learning **React for modern WordPress development**
-
----
 
 ⭐ If you like my work, consider giving a **star** to my repositories!
