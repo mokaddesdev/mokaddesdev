@@ -85,7 +85,7 @@ React.js for modern WordPress development, including Gutenberg block theme suppo
 contact@mokaddesali.com
 </p>
 
-<h4 align="left"> 🤝 Connect With Me</h4>
+<h2 align="left"> 🤝 Connect With Me</h2>
 <p dir="auto">
 
   <!-- LinkedIn -->
@@ -110,6 +110,7 @@ contact@mokaddesali.com
   
 </p>
 
+## 📊 GitHub Stats
 <p align="left">
   <a href="https://github.com/mokaddesdev">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mokaddesdev&show_icons=true&hide=issues" alt="mokaddesdev GitHub Stats" />
@@ -123,16 +124,16 @@ contact@mokaddesali.com
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokaddesdev&theme=tokyonight"/>
 </p>
 
-### ⭐ Featured Projects
+## ⭐ Featured Projects
 
-#### 🎓 LessonLMS – WordPress Learning Management System
+### 🎓 LessonLMS – WordPress Learning Management System
 Custom WordPress LMS platform with course modules, lesson management, and student learning features.
 
 🔗 https://lessonlms.mokaddesali.com/
 
 ---
 
-#### 🧩 Elementor Custom Addons
+### 🧩 Elementor Custom Addons
 Custom Elementor widgets and extensions for advanced design and functionality.
 
 ---
