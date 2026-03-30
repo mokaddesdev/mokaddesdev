@@ -8,9 +8,9 @@
 <h4 align="left">🛠 Skills & Tools</h4>
 
 <p dir="auto">
-  <!-- <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
+  <a target="_blank" rel="noopener noreferrer nofollow" href="https://laravel.com">
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&amp;logo=laravel&amp;logoColor=white" alt="Laravel" style="max-width: 100%;">
-  </a> -->
+  </a>
 
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://wordpress.org">
     <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" style="max-width: 100%;">
@@ -70,10 +70,10 @@
 WordPress, Theme Development, Plugin Development, Elementor Addon Development, WooCommerce, Shopify, PHP, JavaScript, jQuery, React.js, Tailwind CSS, MySQL
 </p>
 
-<h4 align="left">🌱 Currently Learning</h4>
+<!-- <h4 align="left">🌱 Currently Learning</h4>
 <p align="left">
 React.js for modern WordPress development, including Gutenberg block theme support.
-</p>
+</p> -->
 
 <h4 align="left">👨‍💻 Portfolio & GitHub</h4>
 <p align="left">
@@ -123,29 +123,5 @@ contact@mokaddesali.com
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokaddesdev&theme=tokyonight"/>
 </p>
-
-## ⭐ Featured Projects
-
-### 🎓 LessonLMS – WordPress Learning Management System
-Custom WordPress LMS platform with course modules, lesson management, and student learning features.
-
-🔗 https://lessonlms.mokaddesali.com/
-
----
-
-### 🧩 Elementor Custom Addons
-Custom Elementor widgets and extensions for advanced design and functionality.
-
----
-
----
-#### Hospital Appointment Booking System
-Custom gutenburg block theme
-
-#### 🛒 WooCommerce Customization
-Advanced WooCommerce store customization and functionality development.
-
----
-
 
 ⭐ If you like my work, consider giving a **star** to my repositories!
