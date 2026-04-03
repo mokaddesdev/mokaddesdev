@@ -1,5 +1,5 @@
-<h2 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&center=false&vCenter=true&width=900&lines=Hi!+👋,+I+am+Mokaddes+Ali;Full+Stack+WordPress+Developer;" />
+<h2 align="left">Hi👋, I am 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&center=false&vCenter=true&width=900&lines=Mokaddes+Ali;Full+Stack+WordPress+Developer;" />
 </h2>
 <p> I'm Mokaddes Ali. I build custom WordPress themes and plugins, Elementor addons, WooCommerce & Shopify stores, SEO-optimized websites, and modern React-based solutions. Passionate about creating fast, scalable, and user-friendly websites. 
 </p>
