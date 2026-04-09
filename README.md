@@ -1,7 +1,11 @@
-<h2 align="left">
-  Hi! 👋 Happy to see you!
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=300&center=false&vCenter=true&width=900&lines=Full+Stack+WordPress+Developer;" />
-</h2>
+<h2 align="left">Hi! 👋 Happy to see you!</h2>
+
+<p align="left">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&width=600&lines=Full+Stack+WordPress+Developer;WordPress+Theme+Developer" 
+  />
+</p>
+
 <p> I'm Mokaddes Ali. I build custom WordPress themes and plugins, Elementor addons, WooCommerce & Shopify stores, SEO-optimized websites, and modern React-based solutions. Passionate about creating fast, scalable, and user-friendly websites. 
 </p>
 
