@@ -81,7 +81,7 @@ React.js for modern WordPress development, including Gutenberg block theme suppo
 
 <h4 align="left">👨‍💻 Portfolio & GitHub</h4>
 <p align="left">
-<a href="https://mokaddesali.com" target="_blank">Portfolio</a> | <a href="https://github.com/mokaddesdev" target="_blank"> All of my repositories are available on GitHub </a>
+<a href="[https://mokaddesali.com](https://mokaddes.vercel.app/)" target="_blank">Portfolio</a> | <a href="https://github.com/mokaddesdev" target="_blank"> All of my repositories are available on GitHub </a>
 </p>
 
 <h4 align="left">📫 Email</h4>
