@@ -86,7 +86,7 @@ React.js for modern WordPress development, including Gutenberg block theme suppo
 
 <h4 align="left">📫 Email</h4>
 <p align="left">
-contact@mokaddesali.com
+mokaddes.ru2000@gmail.com
 </p>
 
 <h2 align="left"> 🤝 Connect With Me</h2>
